@@ -1,5 +1,5 @@
-<h1>High Levek Design</h1>
-Low-level design tutorial:https://github.com/ashishps1/awesome-low-low-design
+<h1>Low-level Design</h1>
+Low-level design tutorial: https://github.com/ashishps1/awesome-low-low-design
 
 <h1>High Level Design</h1> 
 <strong>Microservice Architecture Patterns:</strong>
