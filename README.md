@@ -11,5 +11,7 @@ Low-level design tutorial: https://github.com/ashishps1/awesome-low-low-design
           <li><strong>SAGA Pattern:</strong> https://medium.com/design-microservices-architecture-with-patterns/saga-pattern-for-microservices-distributed-transactions-7e95d0613345</li>
           <li><strong>CQRS Pattern:</strong> https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c</li>
      </ol>
+  <li>Master-Slave Database Architecture: https://medium.com/@ayogun/master-slave-database-architecture-in-a-nutshell-e20a73e979d1</li>
+
 </ol>
 
