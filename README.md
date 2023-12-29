@@ -15,7 +15,7 @@ Low-level design tutorial: https://github.com/ashishps1/awesome-low-low-design
   <li>Caching: https://www.geeksforgeeks.org/caching-system-design-concept-for-beginners/</li>
   <li>CDN (Content Delivery Network): https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,loading%20for%20data%2Dheavy%20applications.</li>
   <li>Message Queues: https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22</li>
-  <li>Database scaling: https://www.codecademy.com/article/database-scaling-strategies</li>
+  <li>Database scaling: [https://www.codecademy.com/article/database-scaling-strategies](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)https://www.freecodecamp.org/news/understanding-database-scaling-patterns/</li>
 
 </ol>
 
