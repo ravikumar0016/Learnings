@@ -14,6 +14,8 @@ Low-level design tutorial: https://github.com/ashishps1/awesome-low-low-design
   <li>Master-Slave Database Architecture: https://medium.com/@ayogun/master-slave-database-architecture-in-a-nutshell-e20a73e979d1</li>
   <li>Caching: https://www.geeksforgeeks.org/caching-system-design-concept-for-beginners/</li>
   <li>CDN (Content Delivery Network): https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,loading%20for%20data%2Dheavy%20applications.</li>
+  <li>Message Queues: https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22</li>
+  <li>Database scaling: https://www.codecademy.com/article/database-scaling-strategies</li>
 
 </ol>
 
